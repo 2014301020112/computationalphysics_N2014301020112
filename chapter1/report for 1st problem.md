@@ -45,7 +45,9 @@ It is clear from the pictures that:
 When NA=100 and NB=0 at the beginning, the system will reach a system where NA=NB=50.   
 When NA=100 and NB=30 at the beginning, the system will reach a system where NA=NB=65.   
 When NA=100 and NB=80 at the beginning, the system will reach a system where NA=NB=90.  
-In general, in this question, no matter what the initial ratio of NA and NB is, the system will eventually reach a stable state where NA=NB=(NA(0)+NB(0))/2. This is consistent with the idea that the system reaches a steady state in which NA and NB are constant. In such a steady state that the time derivatives dNA/dt and dNB/dt should vanish which can also be observed from the graphes above.   
+In general, in this question, no matter what the initial ratio of NA and NB is, the system will eventually reach a stable state where NA=NB=(NA(0)+NB(0))/2. This is consistent with the idea that the system reaches a steady state in which NA and NB are constant. In such a steady state that the time derivatives dNA/dt and dNB/dt should vanish which can also be observed from the graphes above. 
+
+Copy from wuyuqiao.
 
 
    
