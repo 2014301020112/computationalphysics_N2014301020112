@@ -114,6 +114,6 @@ The codes and report are finished by my self. Any corrections and suggestions wi
 8. Shixing Wang. "Exercise 4: Double Decay" 作业部落， https://www.zybuluo.com/ShixingWang/note/321753，April 02, 2016
 9. Shixing Wang. "Exercise 5: Problem 1.6 - Population Growth"作业部落， https://www.zybuluo.com/ShixingWang/note/326064，April 02, 2016
 
-
+copy from ShixingWang
 
 
