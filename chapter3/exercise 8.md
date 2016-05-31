@@ -45,7 +45,6 @@
 ######![此处输入图片的描述][14]
 ######this graph's initial condition is (x0=2,v0=0),we can say like the previous relation between amplitude and periods. Under this condition, the period of the nonlinear function is less than the linear term.
 ######also at the beginning the period for nonlinear equation is larger than than linear equation. but at some point the two is in the same and after that the nonlinear equation is less than the linear equation.
-###[the code](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/cp19.py)
 ###Reference
 ######Computational Physics, Nicholas J. Giordano & Hisao Nakanishi
 ######《Python基础教程》
