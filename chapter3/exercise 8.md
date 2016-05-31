@@ -63,3 +63,5 @@
   [12]: https://raw.githubusercontent.com/qqyyff/computationalphysics_N2013301020031/master/new%20period_amp.png
   [13]: https://raw.githubusercontent.com/qqyyff/computationalphysics_N2013301020031/master/oscillation_time.png
   [14]: https://raw.githubusercontent.com/qqyyff/computationalphysics_N2013301020031/master/oscillation_time2.png
+
+copy from qqyyff.
