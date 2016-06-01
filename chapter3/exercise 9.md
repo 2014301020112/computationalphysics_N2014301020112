@@ -43,3 +43,5 @@
   [8]: https://raw.githubusercontent.com/qqyyff/computationalphysics_N2013301020031/master/chaos%20with%20frequency1%283%29.png
   [9]: https://raw.githubusercontent.com/qqyyff/computationalphysics_N2013301020031/master/chaos44.png
   [10]: https://raw.githubusercontent.com/qqyyff/computationalphysics_N2013301020031/master/bifurcation.png
+
+Copy from qqyyff.
